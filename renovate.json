@@ -8,4 +8,5 @@
     "matchCurrentVersion": "/V1.0.0/i",
     "addLabels": ["mcversion"]
   }
+  ]
 }
