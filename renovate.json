@@ -9,7 +9,7 @@
     "addLabels": ["mcversion"]
   },
     {
-      "matchpackageNames": ["node"],
+      "matchPackageNames": ["node"],
       "allowedVersions": ["/V1.8.4/"]
     }
   ]
