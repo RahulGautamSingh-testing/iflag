@@ -10,7 +10,7 @@
   },
     {
       "matchPackageNames": ["node"],
-      "allowedVersions": ["/V1.8.4/"]
+      "allowedVersions": ["/V1.8.4/i"]
     }
   ]
 }
